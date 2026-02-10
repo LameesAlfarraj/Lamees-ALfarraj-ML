@@ -1,1 +1,1 @@
-
+Hi, I am Lamees Alfarraj, I am a third year student majoring in AI. I have always been intrested in robots & technology. I’m interested in machine learning because it’s fascinating how computers can learn on their own & make accurate predictions. In my free time, I like to watch movies and do my make-up. I am really looking forward to learn more about Machine Learning this semester.
