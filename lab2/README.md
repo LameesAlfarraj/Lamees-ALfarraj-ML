@@ -1,1 +1,1 @@
-
+The Titanic dataset from Kaggle. The dataset contains passenger information like age, sex, passenger class, etc. this dataset is considered a classification problem (binary classification to be exact). Because the goal is to predict whether a passenger survived (1) or didn’t survive (0). The target variable is survived, which indicates whether the passenger survived the titanic disaster or not.
