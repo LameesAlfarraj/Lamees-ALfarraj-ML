@@ -1,1 +1,2 @@
-In this Lab, I completed the 5 tasks using the titanic dataset from kaggle (which is uploaded in this file). I used google collab due to having a technical problem with Anaconda Jupyter Notebook.
+In this Lab, I completed the 5 tasks using the titanic dataset from kaggle (which is uploaded in this file, the program could ask you to upload it mid execution). I used google collab due to having a technical problem with Anaconda Jupyter Notebook.
+In terms of the missing values, the missing values that were found in Age were filled using the median due to skewness and outliers. The Cabin column was dropped due to excessive missing values. 
