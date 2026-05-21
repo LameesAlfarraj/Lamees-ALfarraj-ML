@@ -1,4 +1,6 @@
 In this lab, we were given a file to complete it code blocks and answer it's questions.
+
+
 1- Why is this an unsupervised learning problem?
 It is unsupervised because there are no target labels (no “correct answer” or predefined customer groups). The goal is to discover hidden patterns or segments in the data using only input features. 
 
